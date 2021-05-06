@@ -1,0 +1,12 @@
+asgiref==3.3.4
+dj-database-url==0.5.0
+Django==3.2
+django-heroku==0.3.1
+gunicorn==20.1.0
+numpy==1.20.2
+opencv-python==4.5.1.48
+psycopg2==2.8.6
+pytz==2021.1
+sqlparse==0.4.1
+typing-extensions==3.7.4.3
+whitenoise==5.2.0
